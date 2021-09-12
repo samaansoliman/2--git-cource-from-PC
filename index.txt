@@ -1,0 +1,11 @@
+== All Command About Make Branch ==
+1- to make the branch write this command [ git branch    ('branch name') ]
+2- to Redirect branch write this command [ git checkout  ('branch name') ]
+3- to delete   branch write this command [ git branch -d ('branch name')] 
+<p> Remember :- d & D  الفرق بين هو ان لو صغيرة لا تمسح الفرع لو حذث تعديلات ولكن الكبيرة لا </p>
+4- to make branch and Redirect to It Write This Command [ git checkout -b ('branch name') ]
+5- to rename The branch Write This Command [git branch -m ('new branch name')]
+
+== All Command About Merging ==
+1- Redirect to master branch and Write This Command [ git checkout master ]
+2- to merge Your Branch By The Main Branch Write This command [ git merge ('your branch name')]
